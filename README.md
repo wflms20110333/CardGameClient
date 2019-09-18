@@ -18,7 +18,7 @@ Created and demoed at PennApps XX (https://devpost.com/software/card-game-client
 
 Travel to http://localhost:5000 to see the initial landing game if deployed in this way.
 
-The web app is located [here](https://amazing-ripple-252305.appspot.com). Users will need to sign in to their Google accounts, then either create a new game or join an existing game with a game code.
+The web app is located [here](https://amazing-ripple-252305.appspot.com). Users will need to sign in to their Google accounts, then either create a new game or join an existing game with a game code. Note: project not completely finished yet.
 
 ## Built With
 
